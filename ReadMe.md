@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Alex<br>
 A passionate junior developer<br><br>
-🔭 I’m currently working on my BuisnessCase : https://github.com/AlexHamon74/BusinessCase<br>
-🔭 I’m currently working on ...<br><br>
-🌱 I’m currently training as a **web and mobile web developer**<br><br>
 📫 How to reach me : alex.hamon74@gmail.com
 
 
