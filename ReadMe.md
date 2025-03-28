@@ -14,7 +14,7 @@ Applications Saas permettant de gérer un championnat sportif de hockey sur glac
 - **Bibliothèques** : Bootstrap, Datatables, ChartJs
 - **Fonctionnalités** : *En cours de développement*
 
-### 🩲 [Api PixelPressing](https://github.com/AlexHamon74/PixelPressing-sf) | [PixelPressing](https://github.com/AlexHamon74/PixelPressing-ng)
+### 🩲 [PixelPressing](https://github.com/AlexHamon74/PixelPressing-ng) | [Api PixelPressing](https://github.com/AlexHamon74/PixelPressing-sf)
 Application destinée à un pressing / laverie pour réserver des créneaux de lavage :
 - **Technologies** : Symfony , Angular
 - **API** : Api Restful, authentification JWT
@@ -27,7 +27,7 @@ Blog pour une association de voyage, nouvelles fonctionnalités à venir :
 - **Fonctionnalités** : Administration avec création de posts avec plusieurs images
 *En cours de développement*
 
-### 🐕 [Api Pat'Match](https://github.com/AlexHamon74/patMatch_api_sf) | [Pat'Match]()
+### 🐕 [Pat'Match]() | [Api Pat'Match](https://github.com/AlexHamon74/patMatch_api_sf)
 Site vitrine pour un chorégraphe :
 - **Technologies** : Symfony , Angular
 - **API** : Api Restful, authentification JWT
@@ -44,15 +44,14 @@ Site vitrine pour un chorégraphe :
 
 ### **Développement Backend**
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **Autres**
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
-- 
 
 
 ---
